@@ -1,0 +1,4 @@
+PROJEKT SELEKTORA:
+ID: embedded
+TAG: FrameLayout
+STATUS: ZALICZONE
